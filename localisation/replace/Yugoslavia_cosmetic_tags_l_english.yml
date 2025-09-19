@@ -1,0 +1,447 @@
+﻿l_english:
+
+ ###cosmetic tags####
+
+ YUG_neutrality:0 "Kingdom of Yugoslavia"
+ YUG_neutrality_DEF:0"The Kingdom of Yugoslavia"
+ YUG_neutrality_ADJ:0 "Yugoslav"
+
+ YUG_democratic:0 "Yugoslavia"
+ YUG_democratic_DEF:0 "Yugoslavia"
+ YUG_democratic_ADJ:0 "Yugoslav"
+
+ YUG_communism:0 "People's Republic of Yugoslavia"
+ YUG_communism_DEF:0 "The People's Republic of Yugoslavia"
+ YUG_communism_ADJ:0 "Yugoslav"
+
+ YUG_fascism:0 "Kingdom of Yugoslavia"
+ YUG_fascism_DEF:0 "The Kingdom of Yugoslavia"
+ YUG_fascism_ADJ:0 "Yugoslav"
+
+ YUG:0 "Yugoslavia"
+ YUG_DEF:0 "Yugoslavia"
+ YUG_ADJ:0 "Yugoslav"
+
+ YUG_Greater_zbor_german_puppet_fascism:0 "Protektorat Jugoslawien" 
+ YUG_Greater_zbor_german_puppet_fascism_DEF:0 "Der Protektorat Jugoslawien"
+ YUG_Greater_zbor_german_puppet_fascism_ADJ:0 "Yugoslav"
+ 
+ YUG_Greater_neutrality:0 "Empire of Yugoslavia"
+ YUG_Greater_neutrality_DEF:0 "The Empire of Yugoslavia"
+ YUG_Greater_neutrality_ADJ:0 "Yugoslav"
+ 
+ YUG_Greater_democratic:0 "Yugoslav Federation"
+ YUG_Greater_democratic_DEF:0 "The Yugoslav Federation"
+ YUG_Greater_democratic_ADJ:0 "Yugoslav"
+ 
+ YUG_Greater_communism:0 "Socialist Federal Republic of Yugoslavia"
+ YUG_Greater_communism_DEF:0 "The Socialist Federal Republic of Yugoslavia"
+ YUG_Greater_communism_ADJ:0 "Yugoslav"
+
+ YUG_Greater_fascism:0 "Kingdom of Yugoslavia"
+ YUG_Greater_fascism_DEF:0 "The Kingdom of Yugoslavia"
+ YUG_Greater_fascism_ADJ:0 "Yugoslav"
+
+ YUG_Greater_zbor_fascism:0 "Greater Yugoslavia" 
+ YUG_Greater_zbor_fascism_DEF:0 "The Greater Yugoslav State"
+ YUG_Greater_zbor_fascism_ADJ:0 "Yugoslav"
+
+ YUG_Greater_jrz_fascism:0 "Empire of Yugoslavia"
+ YUG_Greater_jrz_fascism_DEF:0 "The Empire of Yugoslavia"
+ YUG_Greater_jrz_fascism_ADJ:0 "Yugoslav"
+
+ YUG_republic_neutrality:0 "Republic of Yugoslavia"
+ YUG_republic_neutrality_DEF:0 "The Republic of Yugoslavia"
+ YUG_republic_neutrality_ADJ:0 "Yugoslav"
+
+ YUG_republic_communism:0 "People's Republic of Yugoslavia"
+ YUG_republic_communism_DEF:0 "The People's Republic of Yugoslavia"
+ YUG_republic_communism_ADJ:0 "Yugoslav"
+
+ YUG_republic_democratic:0 "Federal Republic of Yugoslavia"
+ YUG_republic_democratic_DEF:0 "The Federal Republic of Yugoslavia"
+ YUG_republic_democratc_ADJ:0 "Yugoslav"
+
+ YUG_republic_fascism:0 "Yugoslav State"
+ YUG_republic_fascism_DEF:0 "The Yugoslav State"
+ YUG_republic_fascism_ADJ:0 "Yugoslav"
+
+ YUG_federal_communism:0 "Socialist Federal Republic of Yugoslavia"
+ YUG_federal_communism_DEF:0 "The Socialist Federal Republic of Yugoslavia"
+ YUG_federal_communism_ADJ:0 "Yugoslav"
+
+ YUG_zbor_flag_fascism:0 "Yugoslav State"
+ YUG_zbor_flag_fascism_DEF:0 "The Yugoslav State"
+ YUG_zbor_flag_fascism_ADJ:0 "Yugoslav"
+
+ YUG_jrz_flag_fascism:0 "Kingdom of Yugoslavia"
+ YUG_jrz_flag_fascism_DEF:0 "The Kingdom of Yugoslavia"
+ YUG_jrz_flag_fascism_ADJ:0 "Yugoslav"
+
+ YUG_Gorkic_Confederation_communism:0 "Yugoslav Confederation"
+ YUG_Gorkic_Confederation_communism_DEF:0 "The Yugoslav Confederation of Labour"
+ YUG_Gorkic_Confederation_communism_ADJ:0 "Yugoslav"
+
+ YUG_Gorkic_Confederation_Greater_communism:0 "United Yugoslav Confederation of Labour"
+ YUG_Gorkic_Confederation_Greater_communism_DEF:0 "The United Yugoslav Confederation of Labour"
+ YUG_Gorkic_Confederation_Greater_communism_ADJ:0 "Yugoslav"
+
+ YUG_ORJUNA_neutrality:0 "National Yugoslav Republic"
+ YUG_ORJUNA_neutrality_DEF:0 "The National Yugoslav Republic"
+ YUG_ORJUNA_neutrality_ADJ:0 "Yugoslav"
+
+ YUG_ORJUNA_fascism:0 "National Revolutionary Yugoslav Republic"
+ YUG_ORJUNA_fascism_DEF:0 "The National Revolutionary Yugoslav Republic"
+ YUG_ORJUNA_fascism_ADJ:0 "Yugoslav"
+ 
+ YUG_ORJUNA_Greater_neutrality:0 "National Republic of Greater Yugoslavia"
+ YUG_ORJUNA_Greater_neutrality_DEF:0 "The National Republic of Greater Yugoslavia"
+ YUG_ORJUNA_Greater_neutrality_ADJ:0 "Yugoslav"
+
+ YUG_ORJUNA_Greater_fascism:0 "National Revolutionary Republic of Greater Yugoslavia"
+ YUG_ORJUNA_Greater_fascism_DEF:0 "The National Revolutionary Republic of Greater Yugoslavia"
+ YUG_ORJUNA_Greater_fascism_ADJ:0 "Yugoslav"
+
+ YUG_Dvornikovic_neutrality:0 "Yugoslav Commonwealth"
+ YUG_Dvornikovic_neutrality_DEF:0 "The Yugoslav Commonwealth"
+ YUG_Dvornikovic_neutrality_ADJ:0 "Yugoslav"
+  
+ YUG_Dvornikovic_Greater_neutrality:0 "National Commonwealth of the South Slavs"
+ YUG_Dvornikovic_Greater_neutrality_DEF:0 "The National Dinaric and Adriatic Commonwealth of the Southern Slavs"
+ YUG_Dvornikovic_Greater_neutrality_ADJ:0 "Yugoslav"
+
+ YUG_DFJ_democratic:0 "Democratic Federal Yugoslavia"
+ YUG_DFJ_democratic_DEF:0 "The Democratic Federal Yugoslavia"
+ YUG_DFJ_democratic_ADJ:0 "Yugoslav"
+
+ YUG_DFJ_communism:0 "Democratic Federal Yugoslavia"
+ YUG_DFJ_communism_DEF:0 "The Democratic Federal Yugoslavia"
+ YUG_DFJ_communism_ADJ:0 "Yugoslav"
+
+ YUG_Anarchist_communism:0 "Free Councils of Yugoslavia"
+ YUG_Anarchist_communism_DEF:0 "The Free Councils of Yugoslavia"
+ YUG_Anarchist_communism_ADJ:0 "Yugoslav"
+
+ YUG_Anarchist_neutrality:0 "Free Councils of Yugoslavia"
+ YUG_Anarchist_neutrality_DEF:0 "The Free Councils of Yugoslavia"
+ YUG_Anarchist_neutrality_ADJ:0 "Yugoslav"
+
+ Balkan_Defense_Council_communism:0 "Regional Defense Council of the Balkans"
+ Balkan_Defense_Council_communism_DEF:0 "The Regional Defense Council of the Balkans"
+ Balkan_Defense_Council_communism_ADJ:0 "Balkan"
+
+ Balkan_Defense_Council_neutrality:0 "Regional Defense Council of the Balkans"
+ Balkan_Defense_Council_neutrality_DEF:0 "The Regional Defense Council of the Balkans"
+ Balkan_Defense_Council_neutrality_ADJ:0 "Balkan"
+
+ YUG_global_defense_council_communism:0 "Global Defense Council"
+ YUG_global_defense_council_communism_DEF:0 "The Global Defense Council"
+ YUG_global_defense_council_communism_ADJ:0 "Anarchist"
+
+ YUG_global_defense_council_neutrality:0 "Global Defense Council"
+ YUG_global_defense_council_neutrality_DEF:0 "The Global Defense Council"
+ YUG_global_defense_council_neutrality_ADJ:0 "Anarchist"
+
+ YUG_Balkan_Federation_communism:0 "Balkan Federation of Socialist Republics"
+ YUG_Balkan_Federation_communism_DEF:0 "The Balkan Federation of Socialist Republics"
+ YUG_Balkan_Federation_communism_ADJ:0 "Balkan"
+
+ YUG_Balkan_Federation_neutrality:0 "Federation of Balkan Republics"
+ YUG_Balkan_Federation_neutrality_DEF:0 "The Federation of Balkan Republics"
+ YUG_Balkan_Federation_neutrality_ADJ:0 "Balkan"
+
+ YUG_Balkan_Federation_democratic:0 "Federation of Balkan Republics"
+ YUG_Balkan_Federation_democratic_DEF:0 "The Federation of Balkan Republics"
+ YUG_Balkan_Federation_democratic_ADJ:0 "Balkan"
+
+ YUG_Balkan_Federation_fascism:0 "Balkan Unitary State"
+ YUG_Balkan_Federation_fascism_DEF:0 "The Balkan Unitary State"
+ YUG_Balkan_Federation_fascism_ADJ:0 "Balkan"
+
+ YUG_Serbia_Greater_neutrality:0 "Greater Serbia"
+ YUG_Serbia_Greater_neutrality_DEF:0 "Greater Serbia"
+ YUG_Serbia_Greater_neutrality_ADJ:0 "Serbian"
+
+ YUG_Serbia_Greater_fascism:0 "Greater Serbia"
+ YUG_Serbia_Greater_fascism_DEF:0 "Greater Serbia"
+ YUG_Serbia_Greater_fascism_ADJ:0 "Serbian"
+
+ YUG_Serbia_Greater_democratic:0 "All-Serbian Federation"
+ YUG_Serbia_Greater_democratic_DEF:0 "The All-Serbian Federation"
+ YUG_Serbia_Greater_democratic_ADJ:0 "Serbian"
+
+ YUG_Serbia_Greater_communism:0 "Serbian Socialist Federative Republic"
+ YUG_Serbia_Greater_communism_DEF:0 "The Serbian Socialist Federative Republic"
+ YUG_Serbia_Greater_communism_ADJ:0 "Serbian"
+
+ KOS_YUG_subject:0 "Autonomous Region of Kosovo"
+ KOS_YUG_subject_DEF:0 "The Autonomous Region of Kosovo"
+ KOS_YUG_subject_ADJ:0 "Kosovar"
+
+ CRO_YUG_subject:0 "Banovina of Croatia"
+ CRO_YUG_subject_DEF:0 "The Banovina of Croatia"
+ CRO_YUG_subject_ADJ:0 "Croatian"
+
+ SLV_YUG_subject:0 "Banovina of Slovenia"
+ SLV_YUG_subject_DEF:0 "The Banovina of Slovenia"
+ SLV_YUG_subject_ADJ:0 "Slovenian"
+
+ BOS_YUG_subject:0 "Banovina of Bosnia"
+ BOS_YUG_subject_DEF:0 "the Banovina of Bosnia"
+ BOS_YUG_subject_ADJ:0 "Bosnian"
+
+ HRZ_YUG_subject:0 "Banovina of Herzegovina"
+ HRZ_YUG_subject_DEF:0 "the Banovina of Herzegovina"
+
+ MAC_YUG_subject:0 "Vardar Banovina"
+ MAC_YUG_subject_DEF:0 "the Vardar Banovina"
+ MAC_YUG_subject_ADJ:0 "Vardar"
+
+ MNT_YUG_subject:0 "Zeta Banovina"
+ MNT_YUG_subject_DEF:0 "the Zeta Banovina"
+ MNT_YUG_subject_ADJ:0 "Zeta"
+
+ dalmatia_YUG_subject:0 "Banovina of Dalmatia"
+ dalmatia_YUG_subject_DEF:0 "The Banovina of Dalmatia"
+ dalmatia_YUG_subject_ADJ:0 "Dalmatian"
+
+ TRA_YUG_subject:0 "Autonomous Region of Transylvania"
+ TRA_YUG_subject_DEF:0 "The Autonomous Region of Transylvania"
+ TRA_YUG_subject_ADJ:0 "Transylvanian"
+
+ vojvodina_YUG_subject:0 "Autonomous Region of Vojvodina"
+ vojvodina_YUG_subject_DEF:0 "The Autonomous Region of Vojvodina"
+ vojvodina_YUG_subject_ADJ:0 "Vojvodina"
+
+ SER_YUG_subject:0 "Banovina of Serbia"
+ SER_YUG_subject_DEF:0 "The Banovina of Serbia"
+ SER_YUG_subject_ADJ:0 "Serbian"
+
+ SER_National_Salvation_fascism:0 "Government of National Salvation"
+ SER_National_Salvation_fascism_DEF:0 "The Government of National Salvation"
+ SER_National_Salvation_fascism_ADJ:0 "Serbian"
+
+ dalmatia_neutrality:0 "Dalmatia"
+ dalmatia_neutrality_DEF:0 "Dalmatia"
+
+ YUG_Pan_Slavic_ADJ:0 "Slavic"
+
+ YUG_Pan_Slavic_neutrality:0 "Slavic Commonwealth"
+ YUG_Pan_Slavic_neutrality_DEF:0 "The Slavic Commonwealth"
+
+ YUG_Pan_Slavic_democratic:0 "United Federation of Slavia"
+ YUG_Pan_Slavic_democratic_DEF:0 "The United Federation of Slavia"
+
+ YUG_Pan_Slavic_communism:0 "Union of Socialist Federal Slavic Republics"
+ YUG_Pan_Slavic_communism_DEF:0 "Union of Socialist Federal Slavic Republics"
+
+ YUG_Pan_Slavic_fascism:0 "Empire of the Slavs"
+ YUG_Pan_Slavic_fascism_DEF:0 "The Empire of the Slavs"
+
+ FER_Mercantile:0 "Far Eastern Autonomy"
+ FER_Mercantile_DEF:0 "The Far Eastern Autonomy"
+
+ GEO_Mining:0 "Transcaucasian Autonomy"
+ GEO_Mining_DEF:0 "The Transcaucasian Autonomy"
+
+ KAZ_Industrial:0 "Central Asian Autonomy"
+ KAZ_Industrial_DEF:0 "The Central Asian Autonomy"
+
+ TAN_Logging:0 "Siberian Autonomy"
+ TAN_Logging_DEF:0 "The Siberian Autonomy"
+
+ CRO_fascism:0 "Independent State of Croatia"
+ CRO_fascism_DEF:0 "The Independent State of Croatia"
+
+ CRO_democratic:0 "Republic of Croatia"
+ CRO_democratic_DEF:0 "The Republic of Croatia"
+
+ CRO_neutrality:0 "Croatia"
+ CRO_neutrality_DEF:0 "Croatia"
+
+ CRO_communism:0 "Socialist Republic of Croatia"
+ CRO_communism_DEF:0 "The Socialist Republic of Croatia"
+
+ CRO_fascism_ADJ:0 "Croatian"
+
+ CRO_democratic_ADJ:0 "Croatian"
+
+ CRO_neutrality_ADJ:0 "Croatian"
+
+ CRO_communism_ADJ:0 "Croatian"
+
+ CRO:0 "Croatia"
+ CRO_DEF:0 "Croatia"
+ CRO_ADJ:0 "Croatian"
+
+ SER_fascism:0 "Serbian State"
+ SER_fascism_DEF:0 "The Serbian State"
+
+ SER_ITA_fascism_subject:0 "Protectorate of Serbia"
+ SER_ITA_fascism_subject_DEF:0 "The Protectorate of Serbia"
+
+ SER_democratic:0 "Serbia"
+ SER_democratic_DEF:0 "Serbia"
+
+ SER_neutrality:0 "Kingdom of Serbia"
+ SER_neutrality_DEF:0 "The Kingdom of Serbia"
+
+ SER_communism:0 "Socialist Republic of Serbia"
+ SER_communism_DEF:0 "The Socialist Republic of Serbia"
+
+ SER_fascism_ADJ:0 "Serbian"
+
+ SER_democratic_ADJ:0 "Serbian"
+
+ SER_neutrality_ADJ:0 "Serbian"
+
+ SER_communism_ADJ:0 "Serbian"
+
+ SER:0 "Serbia"
+ SER_DEF:0 "Serbia"
+ SER_ADJ:0 "Serbian"
+
+ MNT_fascism:0 "Montenegrin State"
+ MNT_fascism_DEF:0 "The Montenegrin State"
+
+ MNT_ITA_fascism_subject:0 "Governorate of Montenegro"
+ MNT_ITA_fascism_subject_DEF:0 "The Governorate of Montenegro"
+
+ MNT_democratic:0 "Republic of Montenegro"
+ MNT_democratic_DEF:0 "Republic of Montenegro"
+
+ MNT_neutrality:0 "Kingdom of Montenegro"
+ MNT_neutrality_DEF:0 "The Kingdom of Montenegro"
+
+ MNT_communism:0 "Socialist Republic of Montenegro"
+ MNT_communism_DEF:0 "The Socialist Republic of Montenegro"
+
+ MNT_fascism_ADJ:0 "Montenegrin"
+
+ MNT_democratic_ADJ:0 "Montenegrin"
+
+ MNT_neutrality_ADJ:0 "Montenegrin"
+
+ MNT_communism_ADJ:0 "Montenegrin"
+
+ MNT:0 "Montenegro"
+ MNT_DEF:0 "Montenegro"
+ MNT_ADJ:0 "Montenegrin"
+
+ MAC_imro_bulgaria_fascism:0 "Bulgarian State"
+ MAC_imro_bulgaria_fascism_DEF:0 "The Bulgarian State"
+ MAC_imro_bulgaria_neutrality:0 "Bulgarian State"
+ MAC_imro_bulgaria_neutrality_DEF:0 "The Bulgarian State"
+ MAC_imro_bulgaria_democratic:0 "Bulgarian Republic"
+ MAC_imro_bulgaria_democratic_DEF:0 "The Bulgarian Republic"
+ MAC_imro_bulgaria_communism:0 "Bulgarian People's Republic"
+ MAC_imro_bulgaria_communism_DEF:0 "The Bulgarian People's Republic"
+
+ MAC_imro_bulgaria_fascism_ADJ:0 "Bulgarian"
+ MAC_imro_bulgaria_neutrality_ADJ:0 "Bulgarian"
+ MAC_imro_bulgaria_democratic_ADJ:0 "Bulgarian"
+ MAC_imro_bulgaria_communism_ADJ:0 "Bulgarian"
+
+ MAC_fascism:0 "Greater Macedonian State"
+ MAC_fascism_DEF:0 "The Greater Macedonian State"
+
+ MAC_ITA_fascism_subject:0 "Protectorate of Macedonia"
+ MAC_ITA_fascism_subject_DEF:0 "The Protectorate of Macedonia"
+
+ MAC_democratic:0 "Republic of Macedonia"
+ MAC_democratic_DEF:0 "The Republic of Macedonia"
+
+ MAC_neutrality:0 "Vardar Macedonia"
+ MAC_neutrality_DEF:0 "Vardar Macedonia"
+
+ MAC_communism:0 "Socialist Republic of Macedonia"
+ MAC_communism_DEF:0 "The Socialist Republic of Macedonia"
+
+ MAC_fascism_ADJ:0 "Macedonian"
+
+ MAC_democratic_ADJ:0 "Macedonian"
+
+ MAC_neutrality_ADJ:0 "Macedonian"
+
+ MAC_communism_ADJ:0 "Macedonian"
+
+ MAC:0 "Macedonia"
+ MAC_DEF:0 "Macedonia"
+ MAC_ADJ:0 "Macedonian"
+
+ BOS_fascism:0 "Bosnia-Herzegovinan State"
+ BOS_fascism_DEF:0 "The Bosnia-Herzegovinan State"
+
+ BOS_ITA_fascism_subject:0 "Protectorate of Bosnia"
+ BOS_ITA_fascism_subject_DEF:0 "The Protectorate of Bosnia"
+
+ BOS_democratic:0 "Federal Republic of Bosnia and Herzegovina"
+ BOS_democratic_DEF:0 "The Federal Republic of Bosnia and Herzegovina"
+
+ BOS_neutrality:0 "Bosnia"
+ BOS_neutrality_DEF:0 "Bosnia"
+
+ BOS_communism:0 "Socialist Republic of Bosnia and Herzegovina"
+ BOS_communism_DEF:0 "The Socialist Republic of Bosnia and Herzegovina"
+
+ BOS_fascism_ADJ:0 "Bosnian"
+ BOS_democratic_ADJ:0 "Bosnian"
+ BOS_neutrality_ADJ:0 "Bosnian"
+ BOS_communism_ADJ:0 "Bosnian"
+
+ BOS_without_HRZ_fascism:0 "Bosnian State"
+ BOS_without_HRZ_fascism_DEF:0 "The Bosnian State"
+
+ BOS_without_HRZ_ITA_fascism_subject:0 "Governorate of Sarajevo"
+ BOS_without_HRZ_ITA_fascism_subject_DEF:0 "The Governorate of Sarajevo"
+
+ BOS_without_HRZ_democratic:0 "Republic of Bosnia"
+ BOS_without_HRZ_democratic_DEF:0 "The Republic of Bosnia"
+
+ BOS:0 "Bosnia"
+ BOS_DEF:0 "Bosnia"
+ BOS_ADJ:0 "Bosnian"
+
+ SLV_fascism:0 "Slovenian State"
+ SLV_fascism_DEF:0 "The Slovenian State"
+
+ SLV_ITA_fascism_subject:0 "Province of Lubiana"
+ SLV_ITA_fascism_subject_DEF:0 "the Province of Lubiana"
+
+ SLV_democratic:0 "Republic of Slovenia"
+ SLV_democratic_DEF:0 "The Republic of Slovenia"
+
+ SLV_neutrality:0 "Slovenia"
+ SLV_neutrality_DEF:0 "Slovenia"
+
+ SLV_communism:0 "Socialist Republic of Slovenia"
+ SLV_communism_DEF:0 "The Socialist Republic of Slovenia"
+
+ SLV_fascism_ADJ:0 "Slovenian"
+
+ SLV_democratic_ADJ:0 "Slovenian"
+
+ SLV_neutrality_ADJ:0 "Slovenian"
+
+ SLV_communism_ADJ:0 "Slovenian"
+
+ SLV:0 "Slovenia"
+ SLV_DEF:0 "Slovenia"
+ SLV_ADJ:0 "Slovenian"
+ 
+ CRO_croatia_slavonia_kingdom_neutrality:0 "Triune Kingdom"
+ CRO_croatia_slavonia_kingdom_neutrality_DEF:0 "The Triune Kingdom of Croatia, Slavonia and Dalmatia"
+ CRO_croatia_slavonia_kingdom_neutrality_ADJ:0 "Croatian-Slavonian-Dalmatian"
+
+ HUN_TRIPLE_EMPIRE_neutrality:0 "Austria-Hungary-Croatia"
+ HUN_TRIPLE_EMPIRE_fascism:0 "Austro-Hungarian-Croatian Empire"
+ HUN_TRIPLE_EMPIRE_democratic:0 "Danubian Confederation"
+ HUN_TRIPLE_EMPIRE_communism:0 "Association of Autonomous States"
+ HUN_TRIPLE_EMPIRE_neutrality_DEF:0 "Austria-Hungary-Croatia"
+ HUN_TRIPLE_EMPIRE_fascism_DEF:0 "The Austro-Hungarian-Croatian Empire"
+ HUN_TRIPLE_EMPIRE_democratic_DEF:0 "The Danubian Confederation"
+ HUN_TRIPLE_EMPIRE_communism_DEF:0 "The Association of Autonomous States"
+ HUN_TRIPLE_EMPIRE_neutrality_ADJ:0 "Austro-Hungarian-Croatian"
+ HUN_TRIPLE_EMPIRE_fascism_ADJ:0 "Austro-Hungarian-Croatian"
+ HUN_TRIPLE_EMPIRE_democratic_ADJ:0 "Danubian"
+ HUN_TRIPLE_EMPIRE_communism_ADJ:0 "Danubian"

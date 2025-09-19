@@ -1,0 +1,101 @@
+﻿l_english:
+
+ ###states##
+ STATE_109:0 "Zagorje-Slavonia"
+ STATE_1017:0 "Kvarner"
+ STATE_1018:0 "Posavina" 
+ STATE_1019:0 "Mura"
+ STATE_1020:0 "Syrmia"
+ STATE_802:0 "Kosovo"
+ STATE_45:0 "Backa-Baranya"
+ STATE_106:0 "Vardar"
+ STATE_803:0 "Shopluk"
+ STATE_107:0 "Serbia"
+
+ VICTORY_POINTS_61018:0 "Banja Luka"
+ VICTORY_POINTS_11899:0 "Sarajevo"
+ VICTORY_POINTS_9894:0 "Mostar"
+ VICTORY_POINTS_10171:0 "Kotor"
+ VICTORY_POINTS_11586:0 "Beograd"
+ VICTORY_POINTS_3614:0 "Pančevo"
+ VICTORY_POINTS_9809:0 "Podgorica"
+ VICTORY_POINTS_6940:0 "Priština"
+ VICTORY_POINTS_11887:0 "Niš"
+ VICTORY_POINTS_11857:0 "Leskovac"
+ VICTORY_POINTS_3882:0 "Skoplje"
+ VICTORY_POINTS_6799:0 "Tuzla"
+ VICTORY_POINTS_6970:0 "Čačak"
+
+ YUG_Slavenograd:0 "Slavenograd"
+
+ YUG_slavic_name_trst:0 "Trst"
+ YUG_slavic_name_littorale:0 "Primorska"
+ yug_slavic_name_istra:0 "Istra"
+ ITA_italian_kvarner_name:0 "Quarnero"
+ ITA_italian_crikvenica_name:0 "Cirquenizza"
+
+ STATE_852:0 "Istra"
+ ITA_STATE_852:0 "Istria"
+ GER_STATE_852:0 "Istrien"
+ AUS_STATE_852:0 "Istrien"
+
+ STATE_852:0 "Primorska"
+ ITA_STATE_852:0 "Littorale"
+ GER_STATE_852:0 "Küstenland"
+ AUS_STATE_852:0 "Küstenland"
+
+ STATE_852:0 "Istra"
+ ITA_STATE_852:0 "Istria"
+ GER_STATE_852:0 "Istrien"
+ AUS_STATE_852:0 "Istrien"
+
+ VICTORY_POINTS_591:0 "Crikvenica"
+ ITA_VICTORY_POINTS_591:0 "Cirquenizza"
+ GER_VICTORY_POINTS_591:0 "Cirknenz"
+ AUS_VICTORY_POINTS_591:0 "Cirknenz"
+ HUN_VICTORY_POINTS_591:0 "Czirkvenicza"
+
+ VICTORY_POINTS_11564:0 "Rijeka"
+ ITA_VICTORY_POINTS_11564:0 "Fiume"
+ GER_VICTORY_POINTS_11564:0 "Sankt Veit am Flaum"
+ AUS_VICTORY_POINTS_11564:0 "Sankt Veit am Flaum"
+ HUN_VICTORY_POINTS_11564:0 "Fiume"
+
+ VICTORY_POINTS_3924:0 "Split"
+ ITA_VICTORY_POINTS_3924:0 "Spalato"
+
+ VICTORY_POINTS_3943:0 "Zadar"
+ ITA_VICTORY_POINTS_3943:0 "Zara"
+
+ VICTORY_POINTS_3868:0 "Dubrovnik"
+ ITA_VICTORY_POINTS_3868:0 "Ragusa"
+
+ VICTORY_POINTS_9595:0 "Požega"
+ HUN_VICTORY_POINTS_9595:0 "Pozsega"
+ GER_VICTORY_POINTS_9595:0 "Poschegg"
+ AUS_VICTORY_POINTS_9595:0 "Poschegg"
+
+ VICTORY_POINTS_6647:0 "Đakovo"
+ HUN_VICTORY_POINTS_9595:0 "Diakovár"
+ GER_VICTORY_POINTS_9595:0 "Diakowar"
+ AUS_VICTORY_POINTS_9595:0 "Diakowar"
+
+ VICTORY_POINTS_11581:0 "Zagreb"
+ GER_VICTORY_POINTS_11581:0 "Zagreb"
+ AUS_VICTORY_POINTS_11581:0 "Agram"
+ HUN_VICTORY_POINTS_11581:0 "Zágráb"
+
+ VICTORY_POINTS_665:0 "Maribor"
+ ITA_VICTORY_POINTS_665:0 "Marburgo"
+ GER_VICTORY_POINTS_665:0 "Marburg an der Drau"
+ AUS_VICTORY_POINTS_665:0 "Marburg an der Drau"
+
+ VICTORY_POINTS_9627:0 "Ljubljana"
+ ITA_VICTORY_POINTS_9627:0 "Lubiana"
+ GER_VICTORY_POINTS_9627:0 "Laibach"
+ AUS_VICTORY_POINTS_9627:0 "Laibach"
+
+ VICTORY_POINTS_619:0 "Novi Sad"
+ HUN_VICTORY_POINTS_619:0 "Újvidék"
+ GER_VICTORY_POINTS_619:0 "Neusatz"
+ AUS_VICTORY_POINTS_619:0 "Neusatz"

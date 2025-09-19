@@ -1,0 +1,185 @@
+﻿l_english:
+
+ ###tooltip###
+ yug_integration_messages:0 "Nations in our faction that §Yrecieve integration requests§! will have the option to accept or decline, §Yif they decline they will leave the faction and we will gain a wargoal against them.§!"
+ yug_annex_bul_and_alb_tt:0 "§YGain cores on all Bulgarian and Albanian Cores as well as Thrace, Central Macedonia and Dobrudja!§!"
+ yug_annex_balkan_tt:0 "§YGain cores on all Balkan Cores!§!"
+ greater_yugo_formed:0 "Greater Yugoslavia has been established."
+ grol_stays_tt:0 "[YUG.GetLeader] shall stay the current leader."
+ macek_leads_tt:0 "Vladko Maček shall become the new leader."
+ yugo_improve_relations_tt:0 "Italian opinion will impact the response."
+ yugo_italy_territory_agreed:0 "Italo-Yugoslav Border Agreement has been made."
+ anton_korosec_dead:0 "Anton Korošec is dead"
+ mehmed_spaho_dead:0 "Mehmed Spaho is dead"
+ ivan_hribar_dead:0 "Ivan Hribar is dead"
+ niko_bartulovic_dead:0 "Niko Bartulović is dead"
+ yug_currently_developing_state:0 "Currently Developing a State"
+ hribar_available_tt:0 "§YIvan Hribar§! becomes available as an advisor."
+ vauhnik_available_tt:0 "§YVladimir Vauhnik§! becomes available as an advisor."
+ kardelj_available_tt:0 "§YEdvard Kardelj§! becomes available as an advisor."
+ leontic_available_tt:0 "§YLjubo Leontić§! becomes available as an advisor."
+ bartulovic_available_tt:0 "§YNiko Bartulović§! becomes available as an advisor."
+ denied_puppeting_by_yugo:0 "Has denied request of integration."
+ yug_currently_consolidating_state:0 "Currently Consolidating Control Over a State"
+ yugo_collapse_finished_flag:0 "The Uprisings Have Begun"
+ YUG_collapse_happened_flag:0 "Ethnic Tension Has Reached a Point of No Return"
+ peter_is_of_age:0 "Petar II is of Age"
+ yugo_partisan_generals_tt:0 "Loyal §YGenerals§!, §YAdmirals§! and §YMilitary Advisors§! will become available."
+ yugo_partisan_generals_2_tt:0 "Partisan §YGenerals§!, §YAdmirals§! and §YMilitary Advisors§! will become available."
+ yug_purge_tt:0 "The following characters will be purged:"
+ yug_claims_greater_yugo_tt:0 "\n§YReduced cost§! for §YTake States§! action on §Y[ROOT.GetAdjective] claims§! in Peace Conferences.\n\n"
+ form_greater_yugoslavia_flag:0 "Greater Yugoslavia has been formed"
+ YUG_solved_tension_tt:0 "Ethnic Tension has been reduced as much as possible"
+ yugo_improve_military_spirit_tt:0 "Improves §YMultiethnic Military§! national spirit."
+ YUG_can_form_greater_yugo_tt:0 "Can form Greater Yugoslavia"
+ yug_croatian_revolt_tt:0 "The §YUstaše§! launch a §Yrevolt.§!"
+ yug_imro_revolt_tt:0 "The §YVMRO§! launch a §Yrevolt.§!"
+ recall_copic_tt:0 "Vladimir Ćopić will be recalled from Spain to serve our cause."
+ imro_crushed:0 "VMRO has been crushed"
+ imro_uprising_fail:0 "The VMRO has risen up"
+ yugoslavia_can_attack_while_puppeted_tt:0 "Yugoslavia will be able to declare wars on Albania, Bulgaria and Greece regardless of their autonomy status."
+
+ yug_cheaper_puppets_tt:0 "\n§YReduced cost§! for §YPuppet§! action on §YNon-Communist Neighbouring Nations§! in Peace Conferences.\n\n"
+
+ YUG_escalate_the_class_war_tt:0 "§RUpon our seizure of power the military shall begin a counter-revolution!§!"
+
+ start_breakaway_zbor_yugoslavia_tt:0 "Upon our seizure of power, if §YStability§! is below §Y10%§! and §YEthnic Conflict§! has not been dealt with, §Yvarious ethnicities§! shall start an §Yuprising§! to try to §Ybreak away§!!"
+
+ unbanned_orjuna:0 "Orjuna is not banned"
+ orjuna_congress_tt:0 "The §YFirst All-Yugoslav Congress§! shall be held"
+
+ yug_true_workers_republic_tt:0 "Combine §Yall national spirits from previous focuses§! in the branch into §Yone improved national spirit§!."
+
+ yug_industry_decisions_tt:0 "Unlocks On Map Decisions for the Industrialization of the Country"
+
+ YUG_host_country_decision_tt:0 "§Y[ROOT.GetLeader]§! will be able to set up a §YGovernment in Exile§! in §Y[FROM.GetNameWithFlag]§!."
+
+ YUG_request_sent_flag:0 "We have sent a request to host a government in exile that has not been accepted or rejected."
+
+ YUG_host_confirmed_flag:0 "We have menaged to find a nation to set up a government in exile."
+
+ merge_banovina_into_spirit_tt:0 "§YBanovina State Modifiers§! shall be merged into one National Spirit."
+
+ yug_exile_flag:0 "We are in Exile"
+ partisan_generals_remove_tt:0 "If we have not completed §YFederal Defense Council§! national focus, partisan generals and advisors will become unavailable!"
+
+ YUG_exile_occupation_tt:0 "[ROOT.GetName] will continue to be at war with the Exile government of [YUG.GetName] until [YUG.GetName] no longer owns any states."
+
+ current_prime_minister_stays_tt:0 "The Current Prime Minister stays as the leader"
+
+ yugo_launch_uprising_tt:0 "An §YArmed Uprising§! will be launched in §Y[FROM.GetName]§!!"
+
+ YUG_collapse_timer:0 "The Inevitable Uprisings"
+ YUG_consolidate_rule_in_a_state:0 "Consolidate rule over [FROM.GetName]"
+ 
+ YUG_risk_of_collapse_tt:0 "§RRisk§! of [ROOT.GetName] falling apart:\n The country will collapse if stability is less than §Y15%§! or ruling party popularity is less than §Y30%§!."
+
+ yug_launching_uprising_tt:0 "We are currently preparing an uprising in another state"
+
+
+ form_country_mare_nostrum_required_states_tt:0 "Controls §YLjubljana§!, §YDalmatia§!, §YKvarner§!, §YBosnia§!, §YHerzegovina§! and §YMontenegro§!"
+
+
+ YUG_coastal_defense_effect_tt1:0 "Add §Y2 Coastal Forts§! on the coastline\n"
+ YUG_coastal_defense_effect_tt2:0 "Add §Y1 Coastal Fort§! to §YNaval Base§! locations\n"
+ create_one_units_tt:0 "Create §Y1 Militia§! unit."
+ create_two_units_tt:0 "Create §Y2 Militia§! units."
+ create_three_units_tt:0 "Create §Y3 Militia§! units."
+ create_four_units_tt:0 "Create §Y4 Militia§! units."
+ release_dalmatia_tt:0 "Release §YDalmatia§! as a puppet."
+ release_transylvania_tt:0 "Release §YTransylvania§! as a puppet."
+ release_vojvodina_tt:0 "Release §YVojvodina§! as a puppet."
+ release_dalmatia_units_tt:0 "(§YDalmatia§!) Create §Y1 Militia§! unit."
+ transylvania_create_one_units_tt:0 "(§YTransylvania§!) Create §Y1 Militia§! unit."
+ vojvodina_create_one_units_tt:0 "(§YVojvodina§!) Create §Y1 Militia§! unit."
+ all_subjects_become_fascist_tt:0 "All subject nations in §YEurope§! become §YFascist§!."
+ neutral_to_fascist_tt:0 "All §YNeutral§! popularity becomes §YFascist§! popularity."
+ yug_extreme_bravery_medal:0 "§Y[ROOT.GetNameDefCap]§! will now be able to award the §YMedal for Extreme Bravery§! to §YField Commanders§!."
+ will_be_removed_once_scw_is_over_tt:0 "\nThis spirit will be §Rremoved§! once the Spanish Civil War ends."
+ YUG_designer_tt:0 "Unlocks this company as an aircraft designer.\n"
+ YUG_designer_navy_tt:0 "Unlocks this company as a naval designer.\n"
+
+ RULE_ALLOW_RELEASE_NATIONS_NOT_YUGOSLAVIA_TOOLTIP:0 "§Y[YUG.GetName]§! may not release this country."
+
+ unlock_partisan_units_tt:0 "§GYou will unlock new Partisan Brigades units§!"
+ yug_resistance_decision_tt:0 "Unlocks decisions to §Ylaunch local uprisings§!."
+
+ yug_modify_focus_tree_bc_exiles_tt:0 "The §YPolitical Focus Tree§! will be §Ychanged§!."
+
+ yug_more_partisan_units_tt:0 "Decisions to launch uprisings will now launch with §Y2 more partisan divisions§!."
+ 
+ yug_more_chetnik_units_tt:0 "Decisions to launch uprisings will now launch with §Y1 more infantry division§!."
+
+ yugoslavia_invested_mils_in_this_state:0 "Already invested in military industry in this state"
+ yugoslavia_invested_civs_in_this_state:0 "Already invested in civilian industry in this state"
+
+ target_yug_tt:0 "The decisions will target §Y[YUG.GetNameWithFlag]§! or §YAny Country§! currently owning §Y[102.GetName]§!, §Y[853.GetName]§!, §Y[1019.GetName]§!, §Y[109.GetName]§!, §Y[1020.GetName]§!, §Y[45.GetName]§!, §Y[764.GetName]§!, §Y[1017.GetName]§! and §Y[103.GetName]§!."
+
+ yugo_gain_wargoal_on_claimed_states_tt: "Gains §YWargoals§! to conquer the §YClaimed States§!."
+
+ YUG_all_yugoslavian_regiments_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nRecruitable Population: §Y+1.0%§! \n\n"
+ YUG_local_militias_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nRecruitable Population: §Y+2.0%§! \n\n"
+ YUG_army_modernization_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nLand Doctrine Cost: §G-10.0%§! \n\n"
+ YUG_air_force_modernization_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Doctrine Cost: §G-10.0%§! \n\n"
+ YUG_navy_modernization_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nNavy Doctrine Cost: §G-10.0%§! \n\n"
+ YUG_Standardizing_Doctrines_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nDivision Attack: §G+5.0%§! \nDivision Defense: §G+5.0%§! \n\n"
+ YUG_mountain_brigades_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nWinter Attrition: §G-15.0%§! \nCold Acclimatization Gain: §G+15.0%§! \n\n"
+ YUG_independent_engineer_regiments_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nEntrenchment Speed: §G15.0%§! \nMaximum Entrenchment: §G+15.0%§! \n\n"
+ YUG_artillery_regiments_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nArtillery Attack: §G+10.0%§! \nArtillery Defense: §G+10.0%§! \n\n"
+ YUG_army_maneuvers_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nDivision Speed: §G+10.0%§! \n\n"
+ YUG_supremacy_of_offense_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nDivision Attack: §G+10.0%§! \n\n"
+ YUG_supremacy_of_defense_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nDivision Defense: §G+10.0%§! \n\n"
+ YUG_increase_military_funding_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nConsumer Goods: §Y+10.0%§! \nDivision Attack: §G+5.0%§! \nDivision Defense: §G+5.0%§! \n\n"
+ YUG_motorized_logistics_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nSupply Efficiency §G+10.0%§! \nNon-Combat Out of Supply Penalties: §G-10.0%§! \n\n"
+ YUG_modern_tanks_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nArmour Attack §G+10.0%§! \nArmour Defense: §G+10.0%§! \n\n"
+ YUG_advice_from_history_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nLand Doctrine Cost: §G-10.0%§! \n\nModify §YJugoslavensko Ratno Vazduhoplovstvo§! by \nAir Doctrine Cost: §G-10.0%§! \n\nModify §YJugoslavenska Ratna Mornarica§! by \nNavy Doctrine Cost: §G-10.0%§! \n\n"
+ YUG_ethnic_cooperation_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nDivision Recovery Rate: §G+10.0%§! \nMobilisation Speed: §G+10.0%§! \nHeat Attrition: §G-15.0%§! \nHot Acclimatization Gain: §G+15.0%§! \n\n"
+ YUG_A_True_Yugoslav_Military_tt:0  "Modify §YJugoslavenska Kopnena Vojska§! by \nDivision Recovery Rate: §G+10.0%§! \nMobilisation Speed: §G+10.0%§! \nArmy Experience Gain: §G+10.0%§! \nRecruitable Population: §Y+1.0%§! \n\nModify §YJugoslavensko Ratno Vazduhoplovstvo§! by \nAir Experience Gain: §G+10.0%§! \n\nModify §YJugoslavenska Ratna Mornarica§! by \nNavy Experience Gain: §G+10.0%§! \n\n"
+ YUG_tank_licenses_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nArmor License Purchase Cost: §G-50.0%§! \n\n"
+ YUG_tank_conversions_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nEquipment Conversion Speed: §G-15.0%§! \n\n"
+ YUG_license_production_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir License Purchase Cost: §G-50.0%§! \n\n"
+ YUG_domestic_artillery_production_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nArtillery Attack: §G+5.0%§! \nArtillery Defense: §G+5.0%§! \n\n"
+
+ YUG_War_Of_National_Liberation_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nArmy Organization Regain: §G+20.0%§! \nDivision Attack on core territory: §G+20.0%§! \nDivision Defense on core territory: §G+20.0%§! \nWar Support: §G+20.0%§! \nEquipment Capture Ratio Modifier: §G+20.0%§! \nResistance Growth Speed in our states occupied by the enemy: §G+20.0%§! \nResistance Target in our states occupied by the enemy: §G+20.0%§!  \n\n"
+
+ YUG_ikarus_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Attack: §G+5.0%§! \nAir Defense: §G+5.0%§! \nAir Agility: §G+5.0%§! \n\n"
+
+ YUG_the_ik_3_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Superiority: §G+10.0%§! \nAir Agility: §G+5.0%§! \n\n"
+
+ YUG_rogozarski_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Fuel Consumption: §G-5.0%§! \nAir Defense: §G+5.0%§! \n\n"
+
+ YUG_heavy_fighter_project_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Fuel Consumption: §G-5.0%§! \nAir Range: §G+5.0%§! \n\n"
+
+ YUG_zmaj_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nStrat. Bombing: §G+5.0%§! \nAir Range: §G+5.0%§! \n\n"
+
+ YUG_bomber_project_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nStrat. Bombing: §G+5.0%§! \nStrategic Bombing Visibility: §G-5.0%§! \n\n"
+
+ YUG_bomber_license_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nStrat. Bombing: §G+5.0%§! \n\n"
+
+ YUG_fighter_license_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Attack: §G+5.0%§! \n\n"
+
+ YUG_brodosplit_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nCapital Ship Attack: §G+5.0%§! \nCapital Ship Defense: §G+5.0%§! \n\n"
+
+ YUG_replace_the_dalmacija_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nNavy Fuel Consumption: §G-5.0%§! \nNavy Max Range: §G+5.0%§! \n\n"
+
+ YUG_jadransko_brodogradiliste_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nSubmarine Attack: §G+5.0%§! \nSubmarine Defense: §G+5.0%§! \n\n"
+
+ YUG_expand_the_submarine_fleet_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nSubmarine Detection Factor: §G+5.0%§! \nNavy Visibility: §G+5.0%§! \n\n"
+
+ YUG_kraljevica_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nScreen Attack: §G+5.0%§! \nScreen Defense: §G+5.0%§! \n\n"
+
+ YUG_modern_destroyers_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nNavy Fuel Consumption: §G-5.0%§! \nNavy Org.: §G+5.0%§! \n\n"
+
+YUG_contest_the_adriatic_tt:0 "Modify §YJugoslavenska Ratna Mornarica§! by\nNavy Fuel Consumption: §G-5.0%§! \nNavy Morale: §G+5.0%§! \nNavy Max Range: §G+5.0%§! \nNavy Visibility: §G-5.0%§! \n\n"
+
+YUG_Dominate_The_Balkan_Skies_tt:0 "Modify §YJugoslavensko Ratno Vazduhoplovstvo§! by\nAir Superiority: §G-5.0%§! \nAir Agility: §G+5.0%§! \nAir Range: §G+5.0%§! \nAir Experience Gain: §G+5.0%§! \nAir Superiority Mission Efficiency: §G+5.0%§! \nInterception Mission Efficiency: §G+5.0%§! \n\n"
+
+YUG_The_Partisan_Navy_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nSupply Efficiency §G+5.0%§! \nNon-Combat Out of Supply Penalties: §G-5.0%§! \n\n"
+
+YUG_Armoured_Partisan_Divisions_tt:0 "§YRevolts§! will now launch with One §YArmored§! Partisan Division.\n\nModify §YJugoslavenska Kopnena Vojska§! by \nArmor Attack §G+5.0%§! \nArmor Defense: §G+5.0%§! \n\n"
+
+YUG_Ensure_Loyalty_To_The_Central_Government_tt:0 "Build a level §Y1§! railway from §Your capital§! to the §Ycapital of every subject§! accessible by land."
+
+
+
+

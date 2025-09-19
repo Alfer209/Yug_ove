@@ -1,0 +1,143 @@
+﻿l_english:
+
+ ###parties###
+ YUG_communism_party:0 "KPJ"
+ YUG_communism_party_long:0 "Komunistička Partija Jugoslavije"
+
+ YUG_democratic_party:0 "JDS"
+ YUG_democratic_party_long:0 "Jugoslovenska Demokratska Stranka"
+
+ YUG_neutrality_party:0 "Regency Council"
+ YUG_neutrality_party_long:0 "The Regency Council"
+
+ YUG_neutrality_party_2:0 "Monarchists"
+
+ JRZ_long:0 "Jugoslovenska Radikalna Zajednica"
+
+ YUG_kardocevik:0 "House Karađorđević"
+
+ YUG_royal_party:0 "House Karađorđević"
+
+ YUG_peters_loyalists:0 "Peter's Loyalists"
+
+ YUG_fascism_party:0 "Military Junta"
+ YUG_fascism_party_long:0 "Military Junta"
+
+ YUG_chetniks_party:0 "JVO"
+ YUG_chetniks_party_long:0 "Jugoslovenska Vojska u Otadžbini"
+
+ YUG_exile:0 "JVE"
+ YUG_exile_long:0 "Jugoslavenska Vlada u Egzilu"
+
+ YUG_AVNOJ:0 "AVNOJ"
+ YUG_AVNOJ_long:0 "Antifašističko Vijeće Narodnog Oslobođenja Jugoslavije"
+
+ YUG_JNOF:0 "JNOF"
+ YUG_JNOF_long:0 "Jedinstveni Narodnooslobodilački Front"
+
+ ZBOR_long:0 "Združena Borbena Organizacija Rada"
+ 
+ JNP_zbor_long:0 "Jugoslovenski Narodni Pokret"
+
+ JUGORAS_long:0 "Jugoslavenski Radnički Savez"
+
+ JA_long:0 "Jugoslavenska Akcija"
+
+ JNP_long:0 "Jugoslavenska Nacionalna Stranka"
+
+ NNS_long:0 "Narodno Napredna Stranka"
+
+ SKJ_long:0 "Savez Komunista Jugoslavije"
+
+ SDK_long:0 "Seljačko-Demokratska Koalicija"
+
+ SKB_long:0 "Savez Komunista Balkana"
+
+ SKPB_long:0 "Savez Komunističkih Partija"
+
+ ORJUNA_long:0 "Organizacija Jugoslavenskih Nacionalista"
+
+ JNRP_long:0 "Organizacija Jugoslavenskih Nacionalista/Jugoslovenska Nacionalno-Revolucionarna Partija"
+
+ SJNP_long:0 "Sve-Jugoslavenska Nacionalna Partija"
+
+ SSNP_long:0 "Sve-Slavenska Nacionalna Partija"
+
+ SSS_long:0 "Savez Slobodnih Sindikata"
+
+ CRO_fascism_party:0 "UHRO"
+ CRO_fascism_party_long:0 "Ustaša - Croatian Revolutionary Organization"
+
+ CRO_democratic_party:0 "HSS"
+ CRO_democratic_party_long:0 "Hrvatska Seljačka Stranka"
+
+ CRO_neutrality_party:0 "HSS"
+ CRO_neutrality_party_long:0 "Hrvatska Seljačka Stranka"
+
+ CRO_communism_party:0 "KPH"
+ CRO_communism_party_long:0 "Komunistička Partija Hrvatske"
+
+ SER_fascism_party:0 "VNS"
+ SER_fascism_party_long:0 "Government of National Salvation"
+
+ SER_communism_party:0 "KPS"
+ SER_communism_party_long:0 "Komunistička Partija Srbije"
+
+ SER_democratic_party:0 "SDS"
+ SER_democratic_party_long:0 "Srpska Demokratska Stranka"
+
+ SER_neutrality_party:0 "House Karađorđević"
+ SER_neutrality_party_long:0 "House Karađorđević"
+
+ MNT_fascism_party:0 "CFS" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
+ MNT_fascism_party_long:0 "Crnogorska Federalistička Stranka"
+
+ MNT_democratic_party:0 "DL"
+ MNT_democratic_party_long:0 "Demokratska Liga"
+
+ MNT_communism_party:0 "KPCG"
+ MNT_communism_party_long:0 "Komunistička Partija Crne Gore"
+
+ MNT_neutrality_party:0 "House Petrović-Njegoš" 
+ MNT_neutrality_party_long:0 "House Petrović-Njegoš" 
+
+ BOS_fascism_party:0 "OBN"
+ BOS_fascism_party_long:0 "Organizacija Bosanskih Nacionalista"
+
+ BOS_democratic_party:0 "BMO"
+ BOS_democratic_party_long:0 "Bosanska Muslimanska Organizacija"
+
+ BOS_communism_party:0 "KPBiH"
+ BOS_communism_party_long:0 "Komunistička Partija Bosne i Hercegovine"
+
+ BOS_neutrality_party:0 "BMO"
+ BOS_neutrality_party_long:0 "Bosanska Muslimanska Organizacija"
+
+ SLV_fascism_party:0 "SD" 
+ SLV_fascism_party_long:0 "Slovensko Domobranstvo"
+
+ SLV_democratic_party:0 "NNS"
+ SLV_democratic_party_long:0 "Narodno Napredna Stranka"
+
+ SLV_communism_party:0 "KPS"
+ SLV_communism_party_long:0 "Komunistična Partija Slovenije"
+
+ SLV_neutrality_party:0 "SLS"
+ SLV_neutrality_party_long:0 "Slovenska Ljudska Stranka"
+
+ MAC_fascism_party:0 "VMRO" 
+ MAC_fascism_party_long:0 "Vatrešna Makedonska Revolucionna Organizacija"
+
+ MAC_democratic_party:0 "MDS"
+ MAC_democratic_party_long:0 "Makedonska Demokratska Stranka"
+
+ MAC_communism_party:0 "KPM"
+ MAC_communism_party_long:0 "Komunistička partija Makedonije"
+
+ MAC_neutrality_party:0 "VMRO" 
+ MAC_neutrality_party_long:0 "Vatrešna Makedonska Revolucionna Organizacija" 
+
+ DITK_long:0 "Dalekoistočno Vijeće"
+ TKRK_long:0 "Transkavkazijsko Vijeće"
+ CAIZ_long:0 "Centralnoazijsko Vijeće"
+ SKSD_long:0 "Sibirsko Vijeće"

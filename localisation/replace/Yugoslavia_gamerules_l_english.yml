@@ -1,0 +1,21 @@
+﻿l_english:
+
+ #game rules#
+
+ titoist_yugo:0 "Yugoslav Path to Communism"
+ titoist_yugo_desc:0 "The Yugoslav AI will attempt to reform the country into a communist republic and establish it's own brand of Communism under Josip Broz Tito by going down the relevant path in the national focus tree."
+ stalinist_yugo:0 "Follow Moscow"
+ stalinist_yugo_desc:0 "The Yugoslav AI will attempt to reform the country into a communist republic and join the Comintern under Andrija Hebrang by going down the relevant path in the national focus tree."
+ gorkic_yugo:0 "Old leadership of the KPJ"
+ gorkic_yugo_desc:0 "The Yugoslav AI will attempt to reform the country into a communist republic and keep the current party leadership by going down the relevant path in the national focus tree."
+ anarchist_yugo:0 "Anarchism in the Balkans"
+ anarchist_yugo_desc:0 "The Yugoslav AI will attempt to reform the country into an anarchist society by going down the relevant path in the national focus tree."
+ republican_yugo:0 "Republican Yugoslavia"
+ republican_yugo_desc:0 "The Yugoslav AI will attempt to maintain a democratic government and proclaim a republic by going down the relevant paths of the national focus tree."
+ monarchy_yugo:0 "Democratic Monarchy"
+ monarchy_yugo_desc:0 "The Yugoslav AI will attempt to maintain a democratic government and keep the monarchy by going down the relevant paths of the national focus tree."
+ jrz_yugo:0 "Yugoslav Radical Union"
+ jrz_yugo_desc:0 "The Yugoslav AI will attempt to empower the Yugoslav Radical Community and grow closer to the fascist nations of Europe, aiming to eventually enter into an alliance with them."
+ zbor_yugo:0 "Yugoslav People's Movement"
+ zbor_yugo_desc:0 "The Yugoslav AI will attempt to orchestrate a coup by the Yugoslav People's Movement and grow closer to the fascist nations of Europe, aiming to eventually enter into an alliance with them."
+ RULE_HISTORICAL_YUG_AI_DESC:0 "The Yugoslav AI will follow the historical chain of events most closely."
