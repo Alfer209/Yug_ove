@@ -110,6 +110,22 @@
  YUG_Dvornikovic_Greater_neutrality_DEF:0 "The National Dinaric and Adriatic Commonwealth of the Southern Slavs"
  YUG_Dvornikovic_Greater_neutrality_ADJ:0 "Yugoslav"
 
+ YUG_narodna_republika_democratic:0 "Narodna Republika Jugoslavija"
+ YUG_narodna_republika_democratic_DEF:0 "Narodna Republika Jugoslavija"
+ YUG_narodna_republika_ADJ:0 "Yugoslav"
+
+ YUG_narodna_republika_communism:0 "Narodna Republika Jugoslavija"
+ YUG_narodna_republika_communism_DEF:0 "Narodna Republika Jugoslavija"
+ YUG_narodna_republika_ADJ:0 "Yugoslav"
+
+ YUG_narodna_republika_greater_democratic:0 "Jugoslavenska Narodna Federacija"
+ YUG_narodna_republika_greater_democratic_DEF:0 "Jugoslavenska Narodna Federacija"
+ YUG_narodna_republika_greater_ADJ:0 "Yugoslav"
+
+ YUG_narodna_republika_greater_communism:0 "Jugoslavenska Narodna Federacija"
+ YUG_narodna_republika_greater_communism_DEF:0 "Jugoslavenska Narodna Federacija"
+ YUG_narodna_republika_greater_ADJ:0 "Yugoslav"
+
  YUG_DFJ_democratic:0 "Democratic Federal Yugoslavia"
  YUG_DFJ_democratic_DEF:0 "The Democratic Federal Yugoslavia"
  YUG_DFJ_democratic_ADJ:0 "Yugoslav"

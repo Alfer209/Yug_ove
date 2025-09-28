@@ -24,7 +24,7 @@
  yugo_collapse_finished_flag:0 "The Uprisings Have Begun"
  YUG_collapse_happened_flag:0 "Ethnic Tension Has Reached a Point of No Return"
  peter_is_of_age:0 "Petar II is of Age"
- yugo_partisan_generals_tt:0 "Loyal §YGenerals§!, §YAdmirals§! and §YMilitary Advisors§! will become available."
+ yugo_partisan_generals_tt:0 "Communist-aligned §YGenerals§!, §YAdmirals§! and §YAdvisors§! become available."
  yugo_partisan_generals_2_tt:0 "Partisan §YGenerals§!, §YAdmirals§! and §YMilitary Advisors§! will become available."
  yug_purge_tt:0 "The following characters will be purged:"
  yug_claims_greater_yugo_tt:0 "\n§YReduced cost§! for §YTake States§! action on §Y[ROOT.GetAdjective] claims§! in Peace Conferences.\n\n"
@@ -179,6 +179,8 @@ YUG_The_Partisan_Navy_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by \nSuppl
 YUG_Armoured_Partisan_Divisions_tt:0 "§YRevolts§! will now launch with One §YArmored§! Partisan Division.\n\nModify §YJugoslavenska Kopnena Vojska§! by \nArmor Attack §G+5.0%§! \nArmor Defense: §G+5.0%§! \n\n"
 
 YUG_Ensure_Loyalty_To_The_Central_Government_tt:0 "Build a level §Y1§! railway from §Your capital§! to the §Ycapital of every subject§! accessible by land."
+
+YUG_secure_the_danube_tt:0 "Depending on their government and head of state, we will either be able to invite [AUS.GetNameDef], [HUN.GetNameDef] and [BUL.GetNameDef] into our faction or gain wargoals against them."
 
 
 

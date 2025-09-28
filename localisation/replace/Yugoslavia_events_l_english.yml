@@ -384,6 +384,16 @@
  yugofix.43.a:0 "We value our allies!"
  yugofix.43.b:0 "Perhaps not anymore."
 
+ yugofix.46.t:0 "The Question of the Communist Ban"
+ yugofix.46.d:0 "The restoration of democratic rule in our country has also arrived with the questions of banned political parties, the biggest of these being the Communist Party of Yugoslavia. While the lifting of the bans is widely popular, there are some ministers in the government floating the idea of still placing the parties in question under close watch by the government and secret services. While this would taint our newly gained democracy it may be worth the effort."
+ yugofix.46.a:0 "Lift the ban."
+ yugofix.46.b:0 "Lift it but keep them under watch."
+
+ yugofix.45.t:0 "Coalition with the Communists?"
+ yugofix.45.d:0 "Seeing the expansion of political liberties around political parties, some more reform-minded and moderate members of the Communist Party of Yugoslavia have managed to gather enough votes and convince the party leadership to extend a hand towards us to establish a leftist coalition in hopes of bringing socialism to our country. This would, of course, mean allowing the communists a great deal of power within our administration, but it may also allow us to pass progressive policies more easily and satisfy the revolutionary-leaning proletariat and peasantry."
+ yugofix.45.a:0 "They can be useful allies."
+ yugofix.45.b:0 "Never."
+
  yugonews.3.t:0 "The Banovina of Croatia"
  yugonews.3.d:0 "As a result of continuing and increasing problems with Croatian nationalist elements, the Yugoslav government has been necessitated to grant increased autonomy to the Croats. A new semi-independent state, the Banovina of Croatia, has been called into being, and though it is still nominally a dependency of Yugoslavia, the government's influence in the region has now been greatly reduced."
  yugonews.3.a:0 "It was necessary."

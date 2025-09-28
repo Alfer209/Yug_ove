@@ -72,6 +72,8 @@
  king_peter_1:0 "Petar II"
  king_peter_1_desc:0 "Having usurped the throne after the assasination of his Father, Petar Karađorđević was left a king of a fractured country, filled with terrorism and ethnic nationalism, and too young to actually have any power. Until the time that he can be a proper king, a regency was assembled by Prince Pavle to rule in his name."
  YUG_Enshrined_Democratic_Principles:0 "Enshrined Democratic Principles"
+ YUG_Enshrined_Democratic_Principles_1:0 "Enshrined Democratic Principles"
+ YUG_Enshrined_Democratic_Principles_2:0 "Enshrined Democratic Principles"
  YUG_Controlled_Democracy:0 "Controlled Democracy"
  YUG_Controlled_Democracy_1:0 "Counter-Terrorist Measures"
  YUG_Controlled_Democracy_2:0 "Royal Power Cemented"
@@ -143,6 +145,12 @@
  YUG_idea_partisan_republic:0 "The Partisan Movement"
  YUG_The_Legitimate_Resistance_Movement:0 "The Movement for National Liberation"
  YUG_Selective_Collaboration_idea:0 "Selective Collaboration"
+ YUG_yugoslav_reichsbanner_idea:0 "Reichsbanner Plava-Bijela-Crvena"
+ YUG_republicka_garda_idea:0 "Republička Garda"
+ YUG_republicka_garda_right_allowed_idea:0 "Republička Garda"
+ YUG_republicka_garda_defense_law_idea:0 "Republička Garda"
+ YUG_from_democracy_to_socialism_idea:0 "From Democracy to Socialism"
+ YUG_KPJ_surge_idea:0 "KPJ Surge"
 
  #####Economic ideas######
  yug_partisan_economy:0 "Partisan Self-Sufficiency"

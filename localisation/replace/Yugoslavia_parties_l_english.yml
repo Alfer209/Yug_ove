@@ -89,6 +89,9 @@
  SER_neutrality_party:0 "House Karađorđević"
  SER_neutrality_party_long:0 "House Karađorđević"
 
+ SDK_KPJ_coalition:0 "SDKK"
+ SDK_KPJ_coalition_long:0 "Seljačko-Demokratska-Komunistička Koalicija"
+
  MNT_fascism_party:0 "CFS" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
  MNT_fascism_party_long:0 "Crnogorska Federalistička Stranka"
 
