@@ -196,7 +196,7 @@
  yugofix.9.d:0 "Anton Korošec, president of the Slovenian People's Party and author of the May Declaration, who proclaimed the State of Serbs, Croats, and Slovenes on 29 October 1918, has passed away. He was one of the significant advocates of Slovenian autonomy across Yugoslavia while also warming relations with Nazi Germany. A genuinely controversial figure in our uncertain times."
 
  yugofix.10.t:0 "Mehmed Spaho Passes Away"
- yugofix.10.d:0 "Mehmed Spaho, leader of the Yugoslav Muslim Organization and first Bosnian Muslim politician in the Kingdom of Serbs, Croats, and Slovenes, was a prominent supporter of the Bosnian Muslim autonomy in Yugoslavia. His sudden and mysterious death might escalate the tensions between agnostics and religious people around the country."
+ yugofix.10.d:0 "Mehmed Spaho, leader of the Yugoslav Muslim sation and first Bosnian Muslim politician in the Kingdom of Serbs, Croats, and Slovenes, was a prominent supporter of the Bosnian Muslim autonomy in Yugoslavia. His sudden and mysterious death might escalate the tensions between agnostics and religious people around the country."
 
  yugofix.11.t:0 "Vladimir Ćopić Recalled"
  yugofix.11.d:0 "Vladimir Ćopić, one of the volunteers in our Yugoslav International Brigades, has been recalled by the Yugoslav Government in Belgrade to come back to his country. Seeing the revolution successful in his nation, he has answered the call to return back to his homeland."
@@ -286,12 +286,9 @@
  yugofix.23.d:0 "Milan Gorkić, the leader of the Communist Party of Yugoslavia, has officially been arrested and executed in Moscow.\nAccused of being a British spy. Arrested and imprisoned in Lubyanka, he was shot not soon after."
  yugofix.23.a:0 "How will the KPJ recover?"
  
- yugofix.24.t:0 "The Question of Italian Occupation"
- yugofix.24.d:0 "With the Italian Civil War raging on, an opportunity has revealed itself; we could, if we so desire, move our army and retake the yugoslav areas under italian occupation."
- yugofix.24.a:0 "Seize everything we claim"
- yugofix.24.b:0 "Seize Zadar and Croatian Part of Istria"
- yugofix.24.c:0 "Seize Zadar"
- yugofix.24.e:0 "We must not upset the Italians for now"
+ yugofix.24.t:0 "Yugoslavia Seizes the East Adriatic"
+ yugofix.24.d:0 "With the Civil War raging on, sensing our weakness, the Yugoslav army has marched into our rightful land on the East Adriatic coast and illegaly occupied the area. Citing the need to protect the Slavic inhabitants of the area from Italian opression and cultural supression, they have announced the end of the Treaties of Rapallo and Rome and the annexation of occupied areas."
+ yugofix.24.a:0 "Those bastards!"
 
  yugofix.25.t:0 "Pavelić Assassinated"
  yugofix.25.d:0 "Ante Pavelić has been successfully assassinated.\nInfiltrating the main base of the Ustaša, our agent managed to sneak past the guards with a fake id and uniform. After arriving at the meeting of Pavelić with other Ustaša officials, our agent managed to fire three bullets into Pavelić's chest before being attacked by the guards. Luckly, he managed to escape without any serious harm except some non-lethal bullet wounds. He was later picked up via truck and is now being treated at a hospital in Zagreb."
@@ -488,17 +485,22 @@
 
  yug_exile.1.t:0 "A Request from [FROM.GetNameDef]"
  yug_exile.1.d:0 "The [FROM.GetAdjective] ambassador has approached the government with a formal request from [FROM.GetLeader] to be allowed to set up a temporary  Government in Exile here in [ROOT.GetName] if the war against their government goes badly. Accepting would definitely make maintaining good relations with their opponents more difficult."
- yug_exile.1.a:0 "They are welcome here"
- yug_exile.1.b:0 "We cannot allow this"
+ yug_exile.1.a:0 "They are welcome here."
+ yug_exile.1.b:0 "We cannot allow this."
 
  yug_exile.2.t:0 "[FROM.GetNameDefCap] Accepts Request to Host Government"
  yug_exile.2.d:0 "The [FROM.GetAdjective] government has responded favorably to the request to act as host nation for [ROOT.GetLeader] should that be necessary."
- yug_exile.2.a:0 "One issue less to worry about"
+ yug_exile.2.a:0 "One less issue to worry about."
 
  yug_exile.3.t:0 "[FROM.GetNameDefCap] Refuses the [ROOT.GetAdjective] Request"
  yug_exile.3.d:0 "Unfortunately, the [FROM.GetAdjective] government does not dare to upset the agressors. They have refused our request to set up a temporary Government there should [YUG.GetName] fall."
- yug_exile.3.a:0 "We should try elsewhere then"
+ yug_exile.3.a:0 "We should try elsewhere then."
 
  yug_exile.4.t:0 "[YUG.GetNameDefCap] Stays Defiant"
  yug_exile.4.d:0 "Despite the capitulation of the [YUG.GetAdjective] forces, [YUG.GetLeader] and the Yugoslav Government have refused to surrender and announced to the population to keep fighting against us. Rumor has it that [YUG.GetLeader.GetSheHe] has been allowed to set up a Government in Exile in [?YUG.host_nation.GetNameDef]. A formal protest has been issued to the [?YUG.host_nation.GetAdjective] government."
- yug_exile.4.a:0 "The struggle continues"
+ yug_exile.4.a:0 "The struggle continues."
+
+
+ yug_exile.5.t:0 "The Yugoslav Resistance Movement"
+ yug_exile.5.d:0 "With our invasion of [YUG.GetNameDef] the local population has not taken kindly to our occupation and has already begun resisting us and forming local rebel cells. This uptick in hostile activity has prevented even those who are willing to collaborate with our forces from fulfilling all of their duties. It is clear that if we are to destroy this resistance we must bring this war to a triumphant end."
+ yug_exile.5.a:0 "We shall be triumphant."

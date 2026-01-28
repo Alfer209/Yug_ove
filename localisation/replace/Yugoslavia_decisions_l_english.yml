@@ -131,7 +131,7 @@
  YUG_host_country_decision:0 "Request permission to set up Government in Exile in [FROM.GetName]"
 
  YUG_partisan_consolidation:0 "Consolidate Partisan Areas"
- YUG_spread_AVNOJ_propaganda:0 "Spread Avnoj Propaganda"
+ YUG_spread_AVNOJ_propaganda:0 "Spread AVNOJ Propaganda"
  YUG_liberate_arrested_partisans:0 "Liberate Arrested Partisans"
  YUG_royalist_propaganda:0 "Royalist Propaganda"
  YUG_contacts_within_collaborators:0 "Contacts With Collaborators"
@@ -168,11 +168,11 @@
  HUN_reintigrate_srem:0 "Reintegrate Srem"
  HUN_reintigrate_prekmurje:0 "Reintegrate Prekmurje"
 
- ROM_claim_mura:0 "Claim [1019.GetName]"
+ ROM_claim_mura:0 "Claim [1049.GetName]"
  ROM_claim_debar:0 "Claim [970.GetName]"
- ROM_claim_posavina:0 "Claim [1018.GetName]"
- ROM_claim_kvarner:0 "Claim [1017.GetName]"
- ROM_claim_srem:0 "Claim [1020.GetName]"
+ ROM_claim_posavina:0 "Claim [1048.GetName]"
+ ROM_claim_kvarner:0 "Claim [1047.GetName]"
+ ROM_claim_srem:0 "Claim [1050.GetName]"
 
 
  YUG_the_seeds_of_revolution:0 "The Seeds of Revolution"

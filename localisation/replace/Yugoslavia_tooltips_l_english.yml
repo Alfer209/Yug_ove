@@ -63,7 +63,9 @@
  yug_exile_flag:0 "We are in Exile"
  partisan_generals_remove_tt:0 "If we have not completed §YFederal Defense Council§! national focus, partisan generals and advisors will become unavailable!"
 
- YUG_exile_occupation_tt:0 "[ROOT.GetName] will continue to be at war with the Exile government of [YUG.GetName] until [YUG.GetName] no longer owns any states."
+ #YUG_exile_occupation_tt:0 "[ROOT.GetName] will continue to be at war with the Exile government of [YUG.GetName] until [YUG.GetName] no longer owns any states."
+
+ YUG_exile_occupation_tt:0 "[ROOT.GetName] will continue to be at war with the Exile government of [YUG.GetName] until [YUG.GetName] becomes annexed in a peace conference."
 
  current_prime_minister_stays_tt:0 "The Current Prime Minister stays as the leader"
 
@@ -101,7 +103,7 @@
 
  RULE_ALLOW_RELEASE_NATIONS_NOT_YUGOSLAVIA_TOOLTIP:0 "§Y[YUG.GetName]§! may not release this country."
 
- unlock_partisan_units_tt:0 "§GYou will unlock new Partisan Brigades units§!"
+ unlock_partisan_units_tt:0 "§YPartisan Units§! will be unlocked!"
  yug_resistance_decision_tt:0 "Unlocks decisions to §Ylaunch local uprisings§!."
 
  yug_modify_focus_tree_bc_exiles_tt:0 "The §YPolitical Focus Tree§! will be §Ychanged§!."
@@ -113,9 +115,11 @@
  yugoslavia_invested_mils_in_this_state:0 "Already invested in military industry in this state"
  yugoslavia_invested_civs_in_this_state:0 "Already invested in civilian industry in this state"
 
- target_yug_tt:0 "The decisions will target §Y[YUG.GetNameWithFlag]§! or §YAny Country§! currently owning §Y[102.GetName]§!, §Y[853.GetName]§!, §Y[1019.GetName]§!, §Y[109.GetName]§!, §Y[1020.GetName]§!, §Y[45.GetName]§!, §Y[764.GetName]§!, §Y[1017.GetName]§! and §Y[103.GetName]§!."
+ target_yug_tt:0 "The decisions will target §Y[YUG.GetNameWithFlag]§! or §YAny Country§! currently owning §Y[102.GetName]§!, §Y[853.GetName]§!, §Y[1049.GetName]§!, §Y[109.GetName]§!, §Y[1050.GetName]§!, §Y[45.GetName]§!, §Y[764.GetName]§!, §Y[1047.GetName]§! and §Y[103.GetName]§!."
 
  yugo_gain_wargoal_on_claimed_states_tt: "Gains §YWargoals§! to conquer the §YClaimed States§!."
+
+ yugoslav_removing_cores_tt:0 "We will lose §YCores§! on every state that is a core of §Y[YUG.GetNameDef]§! but we will regain them once §Y[YUG.GetNameDef]§! no longer exists."
 
  YUG_all_yugoslavian_regiments_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nRecruitable Population: §Y+1.0%§! \n\n"
  YUG_local_militias_tt:0 "Modify §YJugoslavenska Kopnena Vojska§! by\nRecruitable Population: §Y+2.0%§! \n\n"

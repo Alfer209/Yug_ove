@@ -1,5 +1,10 @@
 ﻿l_english:
 
+ ###Shortcuts###
+
+ YUG_exile_shortcut:0 "Politics: Resistance"
+ YUG_communist_path_shortcut:0 "Politics: Communism"
+
  ###Focuses###
 
  YUG_western_focus:0 "Western Focus"
@@ -19,7 +24,7 @@
  YUG_all_yugoslavian_regiments:0 "All-Yugoslav Regiments"
  YUG_all_yugoslavian_regiments_desc:0 "Though our peoples may be diverse, all must serve to defend our nation. We shall make no distinction of ethnicity when organizing our regiments."
  YUG_crush_the_ustasa:0 "Crush the Ustaše"
- YUG_crush_the_ustasa_desc:0 "The Croatian ultra-nationalist movement Ustaša has become an increasing thorn in our sides. It can no longer be deemed anything other than a terrorist organization, and must be rooted out for the good of the nation."
+ YUG_crush_the_ustasa_desc:0 "As we move towards the centralization of the state, we must not allow any separatist movements to hinder our efforts, one of those being the Croatian ultra-nationalist movement Ustaša. They must be rooted out and destroyed for good."
  YUG_invite_german_military_mission:0 "Invite German Military Mission"
  YUG_invite_german_military_mission_desc:0 "Our military's dislike of the Germans must be overcome. Inviting a military mission would go a long way to showing our brass that there is ample benefit in working together."
  YUG_join_axis:0 "Sign the Tripartite Pact"
@@ -252,7 +257,7 @@
  YUG_Zbor:0 "Coup D'etat"
  YUG_Zbor_desc:0 "It is time to overthrow this unstable regime, for Yugoslavia to survive the coming storm, it must re-organize and evolve with a strong leader and unite the yugoslav people and classes"
  YUG_Invite_Zbor:0 "Empower the People's Movement"
- YUG_Invite_Zbor_desc:0 "The Yugoslav People's Movement is a radical Yugoslav nationalist organisation created after the merging of multiple far right parties and organisations. Perhaps by supporting it and their members we can compose a coalition viable of seizing power."
+ YUG_Invite_Zbor_desc:0 "The Yugoslav People's Movement is a radical Yugoslav nationalist organization created after the merging of multiple far right parties and organizations. Perhaps by supporting it and their members we can compose a coalition viable of seizing power."
  YUG_Crack_Down_On_Radicals:0 "Crack Down on Radicals"
  YUG_Crack_Down_On_Radicals_desc:0 "For Yugoslavia to survive, we must intensify the crackdown on the fascists and communists. The KPJ and ZBOR are threats to our national security and must be eradicated as soon as possible."
  YUG_Defiance_Against_The_Axis:0 "Defiance Against the Axis"
@@ -364,7 +369,7 @@
  YUG_Expand_The_Commisariat:0 "Expand the Protectorate"
  YUG_Expand_The_Commisariat_desc:0 "With our new protection from the Germans, we can ask them for their blessing in our goals of expanding the protectorate to unite the Southern Slavs."
  YUG_Reunite_The_Yugoslav_Action:0 "Support the Yugoslav People's Movement"
- YUG_Reunite_The_Yugoslav_Action_desc:0 "The Yugoslav People's Movement is a radical Yugoslav nationalist organisation created after the merging of multiple far right parties and organisations. Perhaps by supporting it and their members we can compose a coalition viable of seizing power."
+ YUG_Reunite_The_Yugoslav_Action_desc:0 "The Yugoslav People's Movement is a radical Yugoslav nationalist organization created after the merging of multiple far right parties and organizations. Perhaps by supporting it and their members we can compose a coalition viable of seizing power."
  YUG_Replace_Stojadinovic:0 "Replace Stojadinović"
  YUG_Replace_Stojadinovic_desc:0 "Stojadinović's Fascist sympathies have shown themselves to be too great of a threat to our nation. We shall petition Regent Pavle to hopefully replace him with a more suitable leader."
  YUG_yugoslav_armed_forces:0 "The Yugoslav Armed Forces"
@@ -411,8 +416,8 @@
  YUG_Improving_The_NEP_desc:0 "While successful so far, the NEP must be adjusted to specific conditions of our Nation."
  YUG_Socialist_Confederation:0 "Socialist Confederationism"
  YUG_Socialist_Confederation_desc:0 "A Confederation of Ethicities and Nationalities of Yugoslavia will keep the Yugoslav Project stable. Let all those who doubted and tried to sabotage us-\nThe Yugoslav Workers march forward!"
- YUG_The_Fight_Continues:0 "The Fight Continues"
- YUG_The_Fight_Continues_desc:0 "We will never surrender to the occupator. Our Nation shall not fall and we must do everything in our power to keep it that way."
+ YUG_The_Fight_Continues:0 "Organize Resistance to Occupation"
+ YUG_The_Fight_Continues_desc:0 "Our war with the invader has turned increasingly in their favour, and as the enemy forces keep pushing deeper into our territory we must give everything we can to make their advances as painful and costly as possible."
  YUG_Foreign_Army_Support:0 "Foreign Army Support"
  YUG_Foreign_Army_Support_desc:0 "Requesting foreign army support shall surely help our war effort."
  YUG_Foreign_Air_Support:0 "Foreign Airforce Support"
@@ -440,9 +445,9 @@
  YUG_kosovo_chromium:0 "Exploit Kosovar Chromium"
  YUG_kosovo_chromium_desc:0 "Kosovo is no doubt rich in materials, if we are to field a modern military, we must use all we can get."
  YUG_establish_the_banovina_of_slovenia:0 "Establish the Banovina of Slovenia"
- YUG_establish_the_banovina_of_slovenia_desc:0 "With the move towards reorganisation of the banovina system we should also reorganize the Drava Banovina into the Banovina of Slovenia to ensure the loyalty of Slovenes towards our government."
+ YUG_establish_the_banovina_of_slovenia_desc:0 "With the move towards reorganization of the banovina system we should also reorganize the Drava Banovina into the Banovina of Slovenia to ensure the loyalty of Slovenes towards our government."
  YUG_establish_the_banovina_of_serbia:0 "Establish the Banovina of Serbia"
- YUG_establish_the_banovina_of_serbia_desc:0 "The proposal for the reorganisation of the banovina system also includes a Banovina for the Serbian people and as we move towards the completion of this proposal we must also found the Banovina of Serbia."
+ YUG_establish_the_banovina_of_serbia_desc:0 "The proposal for the reorganization of the banovina system also includes a Banovina for the Serbian people and as we move towards the completion of this proposal we must also found the Banovina of Serbia."
  YUG_Nation_Of_Three_Tribes:0 "The Nation of Three Tribes"
  YUG_Nation_Of_Three_Tribes_desc:0 "Our goal with the reorganization of the state was for there to be a stable and united Yugoslavia, a nation as similar as diverse, a nation of Three Tribes - Serbs, Croats and Slovenes, where all work alongside each other for the betterment of all Yugoslavs. With our reforms passed we can now go down the long road of unified South Slavic nation-building."
  YUG_crush_the_IMRO:0 "Lure Out the VMRO"
@@ -649,7 +654,7 @@
  YUG_Preserving_Yugoslavia:0 "Preserving Yugoslavia"
  YUG_Preserving_Yugoslavia_desc:0 "It would be foolish to cast away the idea of the Union that our fathers bled and died for, and while many of our supposed "Slavic brothers" worked against us, we will not destroy the idea of Panslavism, but the Serbian people will instead be the stabilising force in our great Union and teach the other peoples how to behave and act."
  YUG_imitate_reichsbanner:0 "Imitate the Reichsbanner"
- YUG_imitate_reichsbanner_desc:0 "The idea of establishing a militant organisation that will protect our democratic republic like the German Reichsbanner is a great one. We will officially establish such an organisation and fund it so we can spread our ideas of democracy to the people while recruiting the true believers who want to defend the republic."
+ YUG_imitate_reichsbanner_desc:0 "The idea of establishing a militant organization that will protect our democratic republic like the German Reichsbanner is a great one. We will officially establish such an organization and fund it so we can spread our ideas of democracy to the people while recruiting the true believers who want to defend the republic."
  YUG_secure_the_danube:0 "Secure the Danube"
  YUG_secure_the_danube_desc:0 "In order to solidify the defensive capabilities of our alliance we must look towards other countries on the Danube who are of our interest; those being Austria, Hungary and Bulgaria. We could extend our hand and offer them membership in our alliance if their governments are compatible with ours, but if they are not, they must be pacified to not threaten us and our allies."
 
@@ -667,6 +672,10 @@
  YUG_law_on_the_defense_of_the_republic_desc:0 "For socialism to be achieved in our countries we must not allow for us to be sabotaged by reactionaries and saboteurs who would like nothing more than watch our people opressed by yet another dictatorship and as such we will pass the law allowing us to enact necessary measures to stop these reactionary threats from toppling the peoples' government and reinstating another dictatorship."
  YUG_narodna_republika:0 "Narodna Republika"
  YUG_narodna_republika_desc:0 "As we move towards the end of our first set of reforms we can confidently say that we are on the right track to ensure every Yugoslav a safe and dignified life. Though hardship and compromise we have brought upon a true peoples' republic!"
+ YUG_expand_coal_mining:0 "Expand Coal Mining"
+ YUG_expand_coal_mining_desc:0 "With our ever-expanding industry growing, we must have enough energy to fuel this industrialization project, and as such we must begin to look for more coal deposits to exploit within our country."
+ YUG_entrench_federalism:0 "Entrench Federalism"
+ YUG_entrench_federalism_desc:0 "As we move towards the federalization of the country we must emphasize to the political establishment that this is something that is duly needed and cannot be opposed. Entrenching the ideals of federalism will also help us weaken the nationalist and separatist sentiments of the non-Serbian population."
 
 
 
